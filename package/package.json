@@ -1,0 +1,15 @@
+{
+  "name": "mocking-spongebob",
+  "version": "0.2.1",
+  "description": "A simple spongebob meme generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jo Colina <jo@jocolina.com>",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^1.6.11",
+    "fishingrod": "^4.0.0"
+  }
+}
